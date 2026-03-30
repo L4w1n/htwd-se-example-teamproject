@@ -1,5 +1,9 @@
 = Teamdokumentation
+<<<<<<< HEAD
 Jonas Schletze <Jonas@gmail.com>
+=======
+Lewin lewin.3@gmail.com
+>>>>>>> 21befddf3599475a0155507a5452ae80a8e8bd20
 0.1, 01.09.2019
 :toc:
 :toc-title: Inhaltsverzeichnis
