@@ -7,10 +7,15 @@ jonas jaja
 
 | Jonas
 
-| Der Chef digga
+| Sklave
 
 | 12357899698 
 | ssio 
+| 100
+
+| Moritz
+| Der Praktikant
+
 |===
 | 0,9
 | s
