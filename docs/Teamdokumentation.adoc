@@ -1,4 +1,6 @@
 = Teamdokumentation
+Vorname Nachname <email>
+Lewin lewin.3@gmail.com
 Jonas Schletze <Jonas@gmail.com>
 0.1, 01.09.2019
 :toc:
